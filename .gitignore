@@ -1,0 +1,9 @@
+.env
+.env
+# Ignore env files and sensitive data
+.env
+**/.env
+*/.env
+KEY/
+venv/
+__pycache__/
